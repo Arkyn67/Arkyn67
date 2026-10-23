@@ -16,7 +16,7 @@ I run risk, audit and compliance programmes for payments and fintech companies. 
 
 ## Currently
 
-- 🔐 CISO at **Sayswitch Group**, a Nigerian payment switching company
+- 🔐 IT GRC Manager **Sayswitch Group**, a Nigerian payment switching company
 - 🏢 Co-founder of **Lighthouse Cybertech**, an IT GRC advisory firm
 - 📚 Studying for **AWS Solutions Architect – Associate (SAA-C03)**
 - 🧪 Interested in automating control validation and in AI governance for regulated industries
