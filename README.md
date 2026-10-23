@@ -20,6 +20,7 @@ I run risk, audit and compliance programmes for payments and fintech companies. 
 - 🏢 Co-founder of **Lighthouse Cybertech**, an IT GRC advisory firm
 - 📚 Studying for **AWS Solutions Architect – Associate (SAA-C03)**
 - 🧪 Interested in automating control validation and in AI governance for regulated industries
+- 🧪 Building small control-test scripts that pull compliance evidence from source systems: see grc-control-tests
 
 ## Selected work
 
